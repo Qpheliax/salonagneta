@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/salonagneta/static/css/main.cd94ab7f.chunk.css",
+    "main.js": "/salonagneta/static/js/main.4304948a.chunk.js",
+    "main.js.map": "/salonagneta/static/js/main.4304948a.chunk.js.map",
+    "runtime-main.js": "/salonagneta/static/js/runtime-main.2366adc4.js",
+    "runtime-main.js.map": "/salonagneta/static/js/runtime-main.2366adc4.js.map",
+    "static/js/2.74c46b2b.chunk.js": "/salonagneta/static/js/2.74c46b2b.chunk.js",
+    "static/js/2.74c46b2b.chunk.js.map": "/salonagneta/static/js/2.74c46b2b.chunk.js.map",
+    "index.html": "/salonagneta/index.html",
+    "static/css/main.cd94ab7f.chunk.css.map": "/salonagneta/static/css/main.cd94ab7f.chunk.css.map",
+    "static/js/2.74c46b2b.chunk.js.LICENSE.txt": "/salonagneta/static/js/2.74c46b2b.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/salonagneta/static/media/bg_02.4e758b06.png",
+    "static/media/custom.73a21d7b.png": "/salonagneta/static/media/custom.73a21d7b.png",
+    "static/media/logo.a6f92df7.svg": "/salonagneta/static/media/logo.a6f92df7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2366adc4.js",
+    "static/js/2.74c46b2b.chunk.js",
+    "static/css/main.cd94ab7f.chunk.css",
+    "static/js/main.4304948a.chunk.js"
+  ]
+}
