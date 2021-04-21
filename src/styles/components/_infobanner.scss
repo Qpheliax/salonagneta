@@ -1,0 +1,29 @@
+.infobanner {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    padding: 0.5rem 0;
+    text-align: center;
+    vertical-align: middle;
+
+    background-color: rgba(0, 0, 0, .5);
+
+    p {
+        font-family: 'Rubik', sans-serif;
+        font-weight: 400;
+        font-size: 1.3rem;
+
+        @media only screen and (max-width: $small) {
+            font-size: 1.1rem;
+        }
+
+        span {
+            color: orange;
+        }
+
+        a {
+            color: orange;
+        }
+    }
+}

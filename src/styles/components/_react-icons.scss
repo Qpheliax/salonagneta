@@ -1,0 +1,16 @@
+.react-icons {
+    width: 50px;
+    height: 50px;
+
+    &:hover {
+        color: orange;
+    }
+}
+
+.footer {
+    .react-icons {
+        width: 30px;
+        height: 30px;
+
+    }
+}

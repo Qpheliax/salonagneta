@@ -1,0 +1,17 @@
+.logo_palace {
+    @include in-center;
+
+    &__logo {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        @media only screen and (max-width: $small) {
+            flex-direction: column;
+
+            svg {
+                height: 200px;
+            }
+        }
+    }
+}

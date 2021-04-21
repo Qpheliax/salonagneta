@@ -1,0 +1,20 @@
+.hem {
+    position: relative;
+    z-index: 1;
+    height: 100vh;
+
+    &__background {
+        @include background-main;
+        @include background(hem);
+        height: 100vh;
+
+        &__layer {
+            @include background-layer;
+        }
+    }
+
+    @media only screen and (max-width: $small) {
+        height: 50vh;
+    }
+
+}
